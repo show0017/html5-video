@@ -1,0 +1,10 @@
+.wrapper{
+    background-color: beige;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 1% 5%;
+}
+
+#my-vid{
+    width: 90%;
+}
